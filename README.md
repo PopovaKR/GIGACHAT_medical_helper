@@ -28,3 +28,8 @@
 
 ```sh
 docker-compose up -d --build
+
+## Авторы
+
+- [Максим Пугачев](https://t.me/pugachev_maksim)
+- [Кристина Попова](https://t.me/kristina_popova11)
