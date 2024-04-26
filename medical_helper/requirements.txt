@@ -1,0 +1,12 @@
+Django==4.2.11
+aiogram==2.25.1
+djangorestframework==3.15.1
+psycopg2==2.9.9
+langchain==0.1.16
+aiosmtplib==3.0.1
+python-dotenv==1.0.1
+gigachat==0.1.23
+pymupdf==1.24.2
+sentence-transformers==2.7.0
+chromadb==0.3.29
+gunicorn==20.1.0
